@@ -1,0 +1,13 @@
+{
+  "name": "campusfix-ai",
+  "version": "1.0.0",
+  "description": "CampusFix AI - Autonomous Multi-Agent Campus Maintenance Management Platform",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev"
+  },
+  "keywords": ["ai", "agents", "multi-agent", "campus", "maintenance", "gemini"],
+  "author": "CampusFix AI Team",
+  "license": "MIT"
+}
